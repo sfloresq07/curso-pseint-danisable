@@ -1,0 +1,21 @@
+¿Qué es un algoritmo?
+Un algoritmo se puede definir como una secuencia o conjunto ordenado 
+y finito de órdenes que permiten hallar la solución a un problema.
+
+¿Qué es un diagrama de flujo?
+Un diagrama de flujo es una forma visual la cual nos permite representar 
+un algoritmo o proceso. En un diagrama de flujo se usan diferentes 
+elementos y conexiones las cuales son permiten representar el algoritmo 
+de una manera visual, estructurada y organizada.
+
+¿Qué es el PseudoCódigo?
+El pseudocódigo es una herramienta que permite representar instrucciones 
+de código pero sin usar un lenguaje de programación formal, es un punto 
+intermedio entre el lenguaje coloquial y el lenguaje de programación.
+
+Para mostrar texto dentro del programa se utiliza el comando escribir.
+
+PSeInt no detecta espacion, por lo tanto sustituir por guión bajo.
+
+En el comando escribir se debe iniciar y cerrar con comillas para que
+pueda ser leido. Ejemplo "Hola Mundo"
