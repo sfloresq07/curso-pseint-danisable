@@ -19,3 +19,39 @@ PSeInt no detecta espacion, por lo tanto sustituir por guión bajo.
 
 En el comando escribir se debe iniciar y cerrar con comillas para que
 pueda ser leido. Ejemplo "Hola Mundo"
+
+La finalizacion de linea se representa con punto y coma ";"
+
+Tipos de Datos
+
+¿Qué es una dato?
+Se denomina dato a cualquier objeto manipulable por el ordenador. 
+Un dato puede ser un carácter leído de un teclado, información almacenada 
+en un disco, un número que se encuentra en la memoria central, etc.
+
+Datos simples  (sin estructura) :
+
+Numericos Enteros y Reales (integer, real): 
+Enteros: números pertenecientes a un subconjunto finito de los números enteros.
+EJEMPLO:
+5 22 -1
+Reales: números pertenecientes a un subconjunto finito de los números reales (constan de una
+parte entera y una parte decimal).
+EJEMPLO:
+0.09 -31.423 3.0
+
+Lógicos (boolean): los dos valores lógicos, VERDADERO (true) o FALSO (false).
+
+Caracteres (char, string): un conjunto finito de caracteres reconocidos por un ordenador.
+No utiliza el valor que representa.
+EJEMPLO:
+2 4 # @ % C V Q
+
+
+Datos complejos  (con estructura) : Son los que contienen mas de un dato dentro
+de ese mismo dato.
+Arreglos 
+Estructura de datos
+Colecciones
+
+
