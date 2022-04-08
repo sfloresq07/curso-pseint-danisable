@@ -55,3 +55,26 @@ Estructura de datos
 Colecciones
 
 
+VARIABLES:
+
+Una variable es un nombre simbólico que identifica una parte de la 
+memoria en la que se pueden guardar números u otro tipo de datos. 
+Es un “sitio” en la memoria del ordenador para “guardar” datos. 
+El contenido de una variable se puede recuperar y modificar cuantas 
+veces se quiera durante la ejecución de un programa.
+
+Una variable, en general, se identifica por su nombre y su tipo. 
+El nombre debe estar formado por letras y números y comenzar por 
+una letra, aunque normalmente también se admite el uso de ciertos
+caracteres especiales. Una variable está asociada a un tipo de 
+datos, el cual determina la cantidad de bytes que usa la variable.
+
+EJEMPLO:
+
+NOMBRE DE LA VARIABLE <- VALOR DE LA VARIABLE
+
+CAJADEZAPATOS <- ZAPATOS
+
+
+
+
