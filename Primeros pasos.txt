@@ -75,6 +75,9 @@ NOMBRE DE LA VARIABLE <- VALOR DE LA VARIABLE
 
 CAJADEZAPATOS <- ZAPATOS
 
+Escritura o salida de datos (Mostrar los datos)
+Lectura o entrada de datos   (Ingresa los datos)
+
 
 
 
