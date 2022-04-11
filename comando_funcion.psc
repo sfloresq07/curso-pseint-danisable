@@ -1,8 +1,8 @@
-Funcion sumarnumeros(num1,num2)
-	c <- num1 + num2;
-	Escribir "El resultado de la suma es: ", c;
+Funcion resultado <- sumarnumero ( num1 , num2 )
+	resultado <- num1 + num2
+	
 Fin Funcion
-
-Algoritmo parametros
-	sumarnumeros(50,50);
+Algoritmo comando_funcion
+	val <- sumarnumero(50, 50) 
+	Escribir "El resulado que devuelve la funcion es: ", val;
 FinAlgoritmo
