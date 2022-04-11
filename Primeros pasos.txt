@@ -26,30 +26,34 @@ Tipos de Datos
 
 ¿Qué es una dato?
 Se denomina dato a cualquier objeto manipulable por el ordenador. 
-Un dato puede ser un carácter leído de un teclado, información almacenada 
-en un disco, un número que se encuentra en la memoria central, etc.
+Un dato puede ser un carácter leído de un teclado, información 
+almacenada en un disco, un número que se encuentra en la memoria 
+central, etc.
 
 Datos simples  (sin estructura) :
 
 Numericos Enteros y Reales (integer, real): 
-Enteros: números pertenecientes a un subconjunto finito de los números enteros.
+Enteros: números pertenecientes a un subconjunto finito de los 
+números enteros.
 EJEMPLO:
 5 22 -1
-Reales: números pertenecientes a un subconjunto finito de los números reales (constan de una
-parte entera y una parte decimal).
+Reales: números pertenecientes a un subconjunto finito de los 
+números reales 
+(constan de una parte entera y una parte decimal).
 EJEMPLO:
 0.09 -31.423 3.0
 
 Lógicos (boolean): los dos valores lógicos, VERDADERO (true) o FALSO (false).
 
-Caracteres (char, string): un conjunto finito de caracteres reconocidos por un ordenador.
+Caracteres (char, string): un conjunto finito de caracteres reconocidos por 
+un ordenador.
 No utiliza el valor que representa.
 EJEMPLO:
 2 4 # @ % C V Q
 
 
-Datos complejos  (con estructura) : Son los que contienen mas de un dato dentro
-de ese mismo dato.
+Datos complejos  (con estructura) : Son los que contienen mas de un dato 
+dentro de ese mismo dato.
 Arreglos 
 Estructura de datos
 Colecciones
@@ -77,6 +81,27 @@ CAJADEZAPATOS <- ZAPATOS
 
 Escritura o salida de datos (Mostrar los datos)
 Lectura o entrada de datos   (Ingresa los datos)
+
+OPERADORES RELACIONALES
+
+Los operadores relacionales son símbolos que se usan para comparar dos 
+valores. Si el resultado de la comparación es correcto la expresión 
+considerada es verdadera, en caso contrario es falsa.
+
+Operador	Nombre	       		Ejemplo	    	Significado
+<		menor que		a<b		a es menor que b
+>		mayor que		a>b		a es mayor que b
+==		igual a			a==b		a es igual a b
+~=		no igual a		a~=b		a no es igual a b
+<=		menor que o igual a	a<=5		a es menor que o igual a b
+>=		mayor que o igual a	a>=b		a es menor que o igual a b
+
+ACCIONES SELECTIVAS
+
+Se utilizan para tomar decisiones lógicas, se evalúa una condición y en 
+función al resultado se realiza una determinada secuencia de instrucciones.
+
+Video 13 error del profesor
 
 
 
