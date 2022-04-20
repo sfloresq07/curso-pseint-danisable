@@ -110,6 +110,11 @@ nombre y que se distinguen y referencían por un índice. Se declara un arreglo 
 nombre <variable> con N elementos de tipo <tipo>, (N es una constante). Tienen 
 un mismo nombre de variable que representa a todos los elementos.
 
+Operadores en PSeInt
 
+O = || si alguna de la condicion es verdadero el resultado verdadero
+Y = && ambas condiciones deben ser verdadero para que el resultado verdadero
+NO = ~
+MOD = %
 
 
