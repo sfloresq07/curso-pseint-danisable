@@ -55,10 +55,19 @@ Algoritmo calculadora
 				Leer num1;
 				Escribir "Ingresa el segundo número para dividir: ";
 				Leer num2;
-				Escribir "El resultado de la multiplicación entre ", num1," y ",num2," es: ",division( num1, num2 );
+				Escribir "El resultado de la división entre ", num1," y ",num2," es: ",division( num1, num2 );
 			De Otro Modo:
 				Escribir "Elegiste una opción INCORRECTA";
 		Fin Segun
+		
+		Escribir "¿Deseas realizar otra operación? (S/N)"
+		Leer opc2
+		Si opc2 = "S" O opc2 = "s" Entonces
+			oper <- 0;
+			Escribir "Elige la opción que deseas realizar";
+		SiNo
+			Escribir "Gracias por utilizar este programa";
+		Fin Si
 		
 	Hasta Que oper > 0 Y oper < 5;
 	
