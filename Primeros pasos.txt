@@ -103,6 +103,13 @@ función al resultado se realiza una determinada secuencia de instrucciones.
 
 Video 13 error del profesor
 
+ARREGLOS O DIMENSIONES 
+
+Los arreglos (arrays) son variables del mismo tipo de dato que tienen el mismo 
+nombre y que se distinguen y referencían por un índice. Se declara un arreglo de 
+nombre <variable> con N elementos de tipo <tipo>, (N es una constante). Tienen 
+un mismo nombre de variable que representa a todos los elementos.
+
 
 
 
